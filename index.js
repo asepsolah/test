@@ -1,2 +1,2 @@
-console.log('hallo semua!')
+console.log('test ubah!')
 
