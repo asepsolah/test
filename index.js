@@ -1,1 +1,2 @@
-console.log('hallocler semua!')
+console.log('hallo semua!')
+
